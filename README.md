@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0283-move-zeroes) |
+| [0877-stone-game](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/123prateek29/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0877-stone-game](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -62,5 +64,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0877-stone-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/123prateek29/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
