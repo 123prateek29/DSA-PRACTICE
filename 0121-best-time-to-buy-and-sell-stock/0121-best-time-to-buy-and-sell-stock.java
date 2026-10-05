@@ -7,7 +7,6 @@ class Solution {
      while(j< prices.length){
         if(prices[j]>prices[i]){
             profit = prices[j]-prices[i];
-        
         if(profit>mprofit){
             mprofit = profit;
         }}
