@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/123prateek29/DSA-PRACTICE/tree/master/2396-strictly-palindromic-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
