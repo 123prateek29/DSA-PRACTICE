@@ -5,20 +5,14 @@ class Solution {
         for (int i = 0; i < 128; i++) {
             last[i] = -1;
         }
-
         int left = 0;
         int max = 0;
-
         for (int right = 0; right < s.length(); right++) {
             char c = s.charAt(right);
-
             left = Math.max(left, last[c] + 1);
-
             max = Math.max(max, right - left + 1);
-
             last[c] = right;
         }
-
         return max;
     }
 }
