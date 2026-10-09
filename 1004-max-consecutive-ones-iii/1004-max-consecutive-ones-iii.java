@@ -8,7 +8,7 @@ class Solution {
                 zero++;
             while (zero > k) {
                 if (nums[left] == 0)
-                    zero--;
+                    zero--;            
                 left++;
             }
             max = Math.max(max, right - left + 1);
