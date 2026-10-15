@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0904-fruit-into-baskets) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -136,4 +139,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
