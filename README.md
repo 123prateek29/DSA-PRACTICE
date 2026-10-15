@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/123prateek29/DSA-PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
+| [1929-concatenation-of-array](https://github.com/123prateek29/DSA-PRACTICE/tree/master/1929-concatenation-of-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/123prateek29/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/123prateek29/DSA-PRACTICE/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
