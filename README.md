@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0877-stone-game](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0877-stone-game) |
 | [2396-strictly-palindromic-number](https://github.com/123prateek29/DSA-PRACTICE/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/123prateek29/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
