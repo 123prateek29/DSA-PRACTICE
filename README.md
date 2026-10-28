@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0029-divide-two-integers) |
 | [0877-stone-game](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0877-stone-game) |
 | [2396-strictly-palindromic-number](https://github.com/123prateek29/DSA-PRACTICE/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/123prateek29/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0175-combine-two-tables) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/123prateek29/DSA-PRACTICE/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
